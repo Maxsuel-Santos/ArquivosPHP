@@ -1,2 +1,2 @@
 # ArquivosPHP
- Arquivos de aulas básicas de PHP.
+ Arquivos de aulas básicas  ao intermediário em PHP.
