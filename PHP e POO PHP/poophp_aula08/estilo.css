@@ -1,0 +1,20 @@
+body {
+    font: bold 13pt Arial;
+    color: rgba(214, 214, 214, 0.787);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.89);
+}
+p {
+    color: yellow;
+} 
+strong {
+    color: red;
+} 
+pre {
+    background-color: black;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.luta {
+    color: chartreuse;
+}

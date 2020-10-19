@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body {
+    background: url(_imagens/fundo.jpg) ;
+    background-position: 100%;
+    background-size: 100%;
+ /* background-attachment: fixed; */
+    font-family: arial, sans-serif;
+}
+
+div {
+    padding: 8px;
+    position: relative;
+    width: 700px;
+    height: 500px;
+    background-color: #f8f8f8;
+    margin: 145px auto 200px auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-shadow: 3px 3px 0.3px rgba(0,0,0,.3);
+    word-wrap: break-word;
+}
+
+.foco {
+    font: bold 15pt Arial;
+    color: rgb(231, 18, 18);
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+}
+
+.calcular {
+    background-color: rgb(42, 42, 124);
+    margin-top: 5px;
+    width: 70px;
+    height: 32px;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px gray;
+    color: white;
+    font: bold 10pt Arial;
+}
